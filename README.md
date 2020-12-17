@@ -3,12 +3,12 @@
 ## Author: Pranav H. Deo (Duhh!)
 
 
-### Programming language: Python
-### Package used: Numpy
+#### * Programming language: Python
+#### * Package used: Numpy
 
 
-### Pre-requisite: Knowledge of Cellular concepts (GSM)
-### Cellular Concepts: Propogation Loss, Fading, Shadowing, Sectoring, GOS, User call probability, Dropped calls, Hand-offs, Fade-margin and the list does not end.
+#### * Pre-requisite: Knowledge of Cellular concepts (GSM)
+#### * Cellular Concepts: Propogation Loss, Fading, Shadowing, Sectoring, GOS, User call probability, Dropped calls, Hand-offs, Fade-margin and the list does not end.
 
 
 ### Code and Outputs:
