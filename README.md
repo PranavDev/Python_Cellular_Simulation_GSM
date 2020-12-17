@@ -4,9 +4,7 @@
 
 
 #### * Programming language:
-Python
-#### * Package used:
-Numpy
+Python (NumPy)
 
 
 #### * Pre-requisite: 
