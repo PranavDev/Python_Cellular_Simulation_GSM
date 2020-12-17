@@ -6,5 +6,5 @@
 ### Package used: Numpy
 
 ### Pre-requisite: Knowledge of Cellular concepts (GSM)
-### Concepts used: Propogation Loss, Fading, Shadowing, Sectoring, GOS, User call probability etc...
+### Cellular Concepts: Propogation Loss, Fading, Shadowing, Sectoring, GOS, User call probability, Dropped calls, Hand-offs etc.
 
