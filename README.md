@@ -1,9 +1,10 @@
-#Project Title: Simulation of Downlink Behaviour of a 3-sectored Basestation.#
-Author: Pranav H. Deo (Duhh!)
+#Project Title: Simulation of Downlink Behaviour of a 3-sectored Basestation.
 
-Programming language: Python
-Package used: Numpy
+##Author: Pranav H. Deo (Duhh!)
 
-Pre-requisite: Knowledge of Cellular concepts (GSM)
-Concepts used: Propogation Loss, Fading, Shadowing, Sectoring, GOS, User call probability etc...
+##Programming language: Python
+##Package used: Numpy
+
+##Pre-requisite: Knowledge of Cellular concepts (GSM)
+##Concepts used: Propogation Loss, Fading, Shadowing, Sectoring, GOS, User call probability etc...
 
